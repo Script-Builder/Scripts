@@ -2,13 +2,13 @@
 --[[mediafire]]--
 wait()
 script.Parent = nil
-user = "noobkilervip" -- Your name here
+user = "NikePro2004" -- Your name here
 Bet= "="
 Removed = false;
 local Rotations = Instance.new('Model')
 Banned = {"Some noob"} -- banned ;)
 Lagged = {}
-Admins = {"Somerandomperson"} -- an admin
+Admins = {""} -- an admin
 local IllegalTerms = {'/do'..'wn','ki'..'ck','b'..'an','cra'..'sh',user.. ':Remove',user.. ':Destroy',user.. '.Parent = nil',
 'camb'..'all','c'..'ba','.B'..'et','adm'..'inlist','adm'..'in','iorb','orb','DropTheBomb','q0rb','0rb','qOrb','iTable','iRay','iKick','iBan'
 }; -- these are KickingPhrases where if the player says them they will get kicked
